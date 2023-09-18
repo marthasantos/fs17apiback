@@ -1,0 +1,24 @@
+Entidades / Tabelas
+
+-palpaveis
+
+    -professor
+        -id
+        -nome
+        -telefone
+        
+    -aluno
+        -id
+        -nome
+        -telefone
+        -idade
+    -laboratorio
+        -id (PK primary key)
+        -nome (string)
+        -capacidade (numero inteiro)
+        -cor (string)
+
+-nao palpaveis
+    -curso
+    -turma
+    -disciplina
